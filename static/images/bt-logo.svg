@@ -1,0 +1,14 @@
+<svg width="120" height="60" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gold decorative elements -->
+  <path d="M10,15 C15,5 25,15 20,20 C15,25 5,25 10,15 Z" fill="#d4af37"/>
+  <path d="M110,15 C105,5 95,15 100,20 C105,25 115,25 110,15 Z" fill="#d4af37"/>
+  
+  <!-- Main text -->
+  <text x="23" y="30" font-family="'Playfair Display', serif" font-size="24" font-weight="700" fill="#d4af37">Big Taste</text>
+  
+  <!-- Subtitle -->
+  <text x="30" y="45" font-family="'Montserrat', sans-serif" font-size="10" font-weight="400" letter-spacing="1.5" fill="#ffffff">LUXURY JEWELRY</text>
+  
+  <!-- Decorative line -->
+  <line x1="30" y1="48" x2="90" y2="48" stroke="#d4af37" stroke-width="1"/>
+</svg>

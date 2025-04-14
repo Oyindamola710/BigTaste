@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <style>
+    .st0{fill:#d4af37;}
+    .st1{fill:#ffffff;}
+    .text-primary{font-family:Playfair Display, serif;font-weight:700;}
+    .text-secondary{font-family:Montserrat, sans-serif;font-size:14px;letter-spacing:2px;}
+  </style>
+  <text x="10" y="40" class="st0 text-primary" font-size="32">Big Taste</text>
+  <text x="15" y="60" class="st1 text-secondary" font-size="14">LUXURY JEWELRY</text>
+  <path class="st0" d="M5,10 C15,5 25,10 25,15 C25,25 5,25 5,15 Z" />
+  <path class="st0" d="M190,20 C180,15 170,20 170,25 C170,35 190,35 190,25 Z" />
+</svg>
